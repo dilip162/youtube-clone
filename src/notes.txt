@@ -1,0 +1,8 @@
+-Head
+-Body
+ -Sidebar
+  -MenuItems
+ -mainContainer
+  -ButtonList
+  -VideoContainer
+   -VideoCard
